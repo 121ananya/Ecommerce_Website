@@ -74,4 +74,4 @@ Open [http://localhost:4200](http://localhost:4200) to view it in the browser.
 
 If you want to contribute to this project, you can fork the repository and submit a pull request.
 # Ecommerce_Website is live on
-https://6447a8cdb50a4d3681aceeef--ephemeral-basbousa-a8fab5.netlify.app/products
+https://6447abad009f7942f2b56826--ephemeral-basbousa-a8fab5.netlify.app/products
