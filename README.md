@@ -2,9 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
 
-## Description
-<!-- This is an Angular e-commerce app that fetches data from an API and allows users to login with a token that expires after 1 hour. The app also uses the ngx-skeleton-loader library to handle data loading and ngx-infinite-scroll to load more products as the user scrolls down the page. -->
-This is an Angular E-commerce application that allows users to browse products, add products to cart or wishlist, and checkout products. The application fetches product data through an API and uses a token-based authentication system with an expiration time of 20 days, and the refresh token is valid for 10 hours. It also implements the concept of lazy loading with the application divided into modules, including a user module where users can view and update their personal information.
+## screenshot
+![image](https://user-images.githubusercontent.com/65679502/234248246-808aa79c-6f38-469e-ab2f-8f60ed831bc0.png)
+
 
 ## Features
 
